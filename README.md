@@ -25,7 +25,7 @@ Ensure you have Python installed on your system.
    ```
 3. Run the script:
    ```bash
-   python vigenere.py
+   python vigenere-cipher.py
    ```
 4. Follow the on-screen instructions:
    - Enter `E` to encrypt a message.
